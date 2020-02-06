@@ -1,6 +1,5 @@
 <?php  
 
-require 'includes/data.php';
 
 function getTitle($page){
     global $pagesTitles;
